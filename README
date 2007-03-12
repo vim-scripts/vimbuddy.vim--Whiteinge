@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1819
+
+An update to vimscript #8 for Vim 7 by the Gentoo guys.
+
+I'm neither the author nor the updator (if you are, drop me a line and I'll relinquish control of this page).
+
+Puts a smiley on your status line. Nose will rotate on <Left> and <Right>
+Will frown on errors and warnings
